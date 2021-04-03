@@ -10,5 +10,6 @@ The dataset for the project is sourced from Kaggle. A link to the dataset is pro
 
 *Libraries* : Pandas, NumPy, Scikit-Learn, Seaborn, and, Matplotlib.
 
-*Tools* : Ananconda Navigator, and Jupyter Notebook...
+*Tools* : Ananconda Navigator, and Jupyter Notebook.
+
 
